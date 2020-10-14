@@ -2,6 +2,6 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__navbar/header__navbar.css);
-@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__links-list/header__links-list.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__links-item/header__links-item.css);
