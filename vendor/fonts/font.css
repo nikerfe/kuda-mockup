@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style:  normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('./Raleway/Raleway-Regular.woff2') format("woff2"),
+       url('./Raleway/Raleway-Regular.woff') format("woff"),
+       url('./Raleway/Raleway-Regular.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-style:  normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url('./Raleway/Raleway-Bold.woff2') format("woff2"),
+       url('./Raleway/Raleway-Bold.woff') format("woff"),
+       url('./Raleway/Raleway-Bold.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./Raleway//Raleway-Medium.woff2') format("woff2"),
+       url('./Raleway/Raleway-Medium.woff') format("woff"),
+       url('./Raleway/Raleway-Medium.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./Raleway/Raleway-SemiBold.woff2') format("woff2"),
+       url('./Raleway/Raleway-SemiBold.woff') format("woff"),
+       url('./Raleway/Raleway-SemiBold.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./Raleway/Raleway-Black.woff2') format("woff2"),
+       url('./Raleway/Raleway-Black.woff') format("woff"),
+       url('./Raleway/Raleway-Black.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style:  normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('./RobotoCondensed/RobotoCondensed-Regular.woff2') format("woff2"),
+       url('./RobotoCondensed/RobotoCondensed-Regular.woff') format("woff"),
+       url('./RobotoCondensed/RobotoCondensed-Regular.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style:  normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url('./RobotoCondensed/RobotoCondensed-Bold.woff2') format("woff2"),
+       url('./RobotoCondensed/RobotoCondensed-Bold.woff') format("woff"),
+       url('./RobotoCondensed/RobotoCondensed-Bold.ttf') format("truetype");
+}
+
