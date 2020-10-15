@@ -1,0 +1,9 @@
+.places__image_order_mountain {
+    
+}
+
+@media screen and (max-width:767px) {
+    .places__image_order_mountain {
+        order: 3;
+    }
+}

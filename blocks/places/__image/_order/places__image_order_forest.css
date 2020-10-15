@@ -1,0 +1,9 @@
+.places__image_order_forest [
+    
+]
+
+@media screen and (max-width:767px) {
+    .place__image_order_forest {
+        order: 1;
+    }
+}

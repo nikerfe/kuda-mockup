@@ -3,6 +3,7 @@
     box-sizing: border-box;
     font-size: 12px;
     margin-bottom: 16px;
+    font-weight: 600;
     display: block;
     border: none;
     font-family: inherit; 
@@ -13,3 +14,8 @@
     border: #526580 1px solid; ;
 }
 
+@media screen and (max-width:1023px) {
+    .form__item {
+        font-size: 10px;
+}
+}

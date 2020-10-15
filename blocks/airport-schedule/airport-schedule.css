@@ -1,6 +1,12 @@
 .airport-schedule {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(2, minmax(320px, 1fr));
     background-color: #F2F2F2;
+}
+
+@media screen and (max-width:767px) {
+    .airport-schedule {
+        grid-template-columns: repeat(1, minmax(320px, 1fr));
+}
 }

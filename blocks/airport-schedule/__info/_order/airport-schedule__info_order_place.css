@@ -1,0 +1,9 @@
+.airport-schedule__info_order_place {
+    
+}
+
+@media screen and (max-width:767px) {
+    .airport-schedule__info_order_place {
+        order: 1;
+    }
+}
