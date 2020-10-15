@@ -12,3 +12,11 @@
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__illustration/intro__illustration.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__image/_background/place__image_background_forest.css);
+@import url(../blocks/places/__image/_background/place__image_background_mountain.css);
+@import url(../blocks/places/__image/_background/place__image_background_sea.css);
+@import url(../blocks/places/__info/places__info.css);
+@import url(../blocks/places/__info-heading/places__info-heading.css);
+@import url(../blocks/places/__info-paragraph/places__info-paragraph.css);
