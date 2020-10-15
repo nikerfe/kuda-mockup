@@ -1,0 +1,9 @@
+.places__info_order_sea {
+    
+}
+
+@media screen and (max-width:767px) {
+    .places__info_order_sea  {
+        order: 6;
+    }
+}

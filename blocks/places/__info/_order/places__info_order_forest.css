@@ -1,0 +1,9 @@
+.places__info_order_forest {
+   
+}
+
+@media screen and (max-width:767px) {
+    .places__info_order_forest {
+        order: 2;
+    }
+}

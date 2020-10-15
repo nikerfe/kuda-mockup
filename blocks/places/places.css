@@ -5,3 +5,10 @@
     grid-template-columns: repeat(2, minmax(320px, 1fr));
     align-items: stretch;
 }
+
+@media screen and (max-width:767px) {
+    .places {
+        grid-template-columns: repeat(1, minmax(320px, 100%));
+        
+    }
+}
