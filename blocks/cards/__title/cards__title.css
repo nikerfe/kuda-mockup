@@ -1,0 +1,7 @@
+.cards__title {
+  text-transform: uppercase;
+  max-width: 218px;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 30px 0;
+}

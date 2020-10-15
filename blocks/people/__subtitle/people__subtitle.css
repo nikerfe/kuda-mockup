@@ -1,0 +1,9 @@
+.people__subtitle {
+  font-family: "Roboto Condensed", Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgba(255, 196, 0, 0.4);
+  margin: 0;
+  padding: 0;
+}
