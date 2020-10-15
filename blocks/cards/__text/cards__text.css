@@ -5,3 +5,9 @@
   line-height: 16px;
   font-weight: 500;
 }
+
+@media screen and (max-width: 767px) {
+  .cards__text {
+    font-size: 14px;
+  }
+}

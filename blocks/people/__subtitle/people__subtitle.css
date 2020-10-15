@@ -3,7 +3,13 @@
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
-  color: rgba(255, 196, 0, 0.4);
+  color: rgba(254, 213, 181, 1);
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .people__subtitle {
+    font-size: 18px;
+  }
 }
