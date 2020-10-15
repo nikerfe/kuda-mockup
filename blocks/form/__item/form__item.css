@@ -1,0 +1,15 @@
+.form__item {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 12px;
+    margin-bottom: 16px;
+    display: block;
+    border: none;
+    font-family: inherit; 
+}
+
+.form__item:focus {
+    outline: none;
+    border: #526580 1px solid; ;
+}
+
