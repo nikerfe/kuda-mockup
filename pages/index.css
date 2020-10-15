@@ -47,4 +47,6 @@
 @import url('../blocks/form/__item/_text/form__item_text_size.css');
 @import url('../blocks/form/__item/_textarea/form__item_textarea_size.css');
 @import url('../blocks/form/__button/form__button.css');
-
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__iframe/video__iframe.css');
+@import url('../blocks/video/__title/video__title.css');

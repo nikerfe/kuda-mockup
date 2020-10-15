@@ -1,0 +1,16 @@
+.video__title {
+    display: block;
+    width: 100%;
+    height: 50vw;
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    position: absolute;
+    top: 125px;
+    left: 70px;
+}
+
+.video__title:hover {
+    display: none;
+}
