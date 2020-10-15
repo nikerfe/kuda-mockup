@@ -30,8 +30,8 @@
       <img src="./images/intro-image.jpeg" alt="Полет" class="intro__illustration">
     </section>
     <section class="places">
-      <div class="places__image place__image_background_forest"></div>
-      <div class="places__info">
+      <div class="places__image place__image_background_forest places__image_order_forest"></div>
+      <div class="places__info places__info_order_forest">
         <h2 class="places__info-heading">Поеду в лес</h2>
         <p class="places__info-paragraph">Лес — экологическая система, биоценоз, в которой главной жизненной формой
           являются
@@ -41,16 +41,16 @@
           В глобальном масштабе — это часть биосферы, в локальном — это может быть насаждение. Леса занимают около трети
           площади суши.</p>
       </div>
-      <div class="places__info">
+      <div class="places__info places__info_order_mountain">
         <h2 class="places__info-heading">Поеду в горы</h2>
         <p class="places__info-paragraph">Горные системы занимают 64 % поверхности Азии, 36 % — Северной Америки, 25 % —
           Европы, 22 % — Южной Америки,
           17 % — Австралии и 3 % — Африки. В целом 24 % земной поверхности приходится на горы. 10 % всех людей живёт на
           территории гор. В горах берёт своё начало большинство рек Земли.</p>
       </div>
-      <div class="places__image place__image_background_mountain"></div>
-      <div class="places__image place__image_background_sea"></div>
-      <div class="places__info">
+      <div class="places__image place__image_background_mountain places__image_order_mountain"></div>
+      <div class="places__image place__image_background_sea places__image_order_sea"></div>
+      <div class="places__info places__info_order_sea">
         <h2 class="places__info-heading">Поеду на Чёрное море</h2>
         <p class="places__info-paragraph">Я уплыву туда, где ни разу я не был, туда, где никто раньше не был. Никто и
           никогда
@@ -87,7 +87,7 @@
       </ul>
     </section>
     <section class="airport-schedule">
-      <div class="airport-schedule__info">
+      <div class="airport-schedule__info airport-schedule__info_order_place">
         <h2 class="airport-schedule__title">Так куда же я поеду?</h2>
         <form class="form">
           <fieldset class="form__items">
@@ -97,13 +97,16 @@
           </fieldset>
         </form>
       </div>
-      <img src="./images/airport-schedule.jpg" alt="изображение расписания авиа рейсов" class="airport-schedule__image">
+      <div class="airport-schedule__image airport-schedule__image_order_place"></div>
     </section>
     <section class="video">
       <h2 class="video__title">А пока что - сидим дома!</h2>
-      <iframe src="https://www.youtube.com/embed/JGNiMutYBm4" class="video__iframe" allowfullscreen>
-    </section>
+      <iframe src="https://www.youtube.com/embed/JGNiMutYBm4" class="video__iframe" allowfullscreen></iframe>
+    </section> 
   </main>
+  <footer class="footer">
+    <p class="footer__copyright">&copy; 2020</p>
+  </footer>
 </body>
 
 

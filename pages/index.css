@@ -34,12 +34,20 @@
 @import url(../blocks/places/__image/_background/place__image_background_forest.css);
 @import url(../blocks/places/__image/_background/place__image_background_mountain.css);
 @import url(../blocks/places/__image/_background/place__image_background_sea.css);
+@import url(../blocks/places/__image/_order/places__image_order_forest.css);
+@import url(../blocks/places/__image/_order/places__image_order_mountain.css);
+@import url(../blocks/places/__image/_order/places__image_order_sea.css);
 @import url(../blocks/places/__info/places__info.css);
+@import url(../blocks/places/__info/_order/places__info_order_forest.css);
+@import url(../blocks/places/__info/_order/places__info_order_mountain.css);
+@import url(../blocks/places/__info/_order/places__info_order_sea.css);
 @import url(../blocks/places/__info-heading/places__info-heading.css);
 @import url(../blocks/places/__info-paragraph/places__info-paragraph.css);
 @import url('../blocks/airport-schedule/airport-schedule.css');
 @import url('../blocks/airport-schedule/__info/airport-schedule__info.css');
+@import url('../blocks/airport-schedule/__info/_order/airport-schedule__info_order_place.css');
 @import url('../blocks/airport-schedule/__image/airport-schedule__image.css');
+@import url('../blocks/airport-schedule/__image/_order/airport-schedule__image_order_place.css');
 @import url('../blocks/airport-schedule/__title/airport-schedule__title.css');
 @import url('../blocks/form/form.css');
 @import url('../blocks/form/__items/form__items.css');
@@ -50,3 +58,5 @@
 @import url('../blocks/video/video.css');
 @import url('../blocks/video/__iframe/video__iframe.css');
 @import url('../blocks/video/__title/video__title.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/_copyright/footer__copyright.css');

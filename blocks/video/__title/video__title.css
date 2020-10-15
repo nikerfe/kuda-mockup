@@ -1,7 +1,4 @@
 .video__title {
-    display: block;
-    width: 100%;
-    height: 50vw;
     margin: 0;
     font-size: 30px;
     font-weight: bold;
@@ -11,6 +8,18 @@
     left: 70px;
 }
 
-.video__title:hover {
-    display: none;
+@media screen and (max-width:1023px) {
+    .video__title {
+        font-size: 24px;
+        top: 70px;
+        left: 30px;
+}
+}
+
+@media screen and (max-width:767px) {
+    .video__title {
+        font-size: 14px;
+        top: 35px;
+        left: 15px;
+}
 }
