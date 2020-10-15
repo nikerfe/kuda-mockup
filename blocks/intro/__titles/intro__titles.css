@@ -2,3 +2,15 @@
   max-width: 512px;
   align-self: center;
 }
+
+@media screen and (max-width: 1023px) {
+  .intro__titles {
+    max-width: 400px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__titles {
+    max-width: 250px;
+  }
+}

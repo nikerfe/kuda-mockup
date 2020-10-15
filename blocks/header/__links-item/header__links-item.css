@@ -5,3 +5,12 @@
 .header__links-item:last-child {
   margin: 0 0 0 auto;
 }
+@media screen and (max-width: 767px) {
+  .header__links-item {
+    margin: 0 0 30px 0;
+  }
+
+  .header__links-item:last-child {
+    margin: 0;
+  }
+}
