@@ -8,6 +8,8 @@
 
 @media screen and (max-width: 767px) {
   .people__title {
+    max-width: calc(100% - 2*20px);
     text-align: center;
+    font-size: 26px;
   }
 }

@@ -8,6 +8,13 @@
   margin: 0;
 }
 
+
+@media screen and (max-width:1023px) {
+  .cards__item:nth-child(2n) {
+    margin-right: 0px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .cards__item {
     margin: 0;

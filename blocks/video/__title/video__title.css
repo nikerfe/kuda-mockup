@@ -10,7 +10,6 @@
 
 @media screen and (max-width:1023px) {
     .video__title {
-        font-size: 24px;
         top: 70px;
         left: 30px;
 }
@@ -18,7 +17,7 @@
 
 @media screen and (max-width:767px) {
     .video__title {
-        font-size: 14px;
+        font-size: 26px;
         top: 35px;
         left: 15px;
 }
