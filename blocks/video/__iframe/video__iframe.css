@@ -4,3 +4,9 @@
     display: block;
     border: none;
 }
+
+@media screen and (max-width:767px) {
+    .video__iframe {
+        height: 100vw;
+}
+}

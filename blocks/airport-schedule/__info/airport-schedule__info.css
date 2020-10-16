@@ -13,7 +13,9 @@
 
 @media screen and (max-width:767px) {
     .airport-schedule__info {
-        padding: 60px 0 150px 0px;
+       padding: 0;
+        justify-content: center;
         align-items: center;
+        min-height: 100vw;
 }
 }

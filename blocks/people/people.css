@@ -7,6 +7,14 @@
   flex-direction: column;
 }
 
+@media screen and (max-width: 1023px) {
+  .people {
+    align-items: center;
+    justify-content: center;
+    margin: 0 120px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .people {
     max-width: 100%;
